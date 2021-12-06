@@ -1,1 +1,2 @@
-# .gitignore
+Results/Main/*.html
+Results/Main/Gherkin/*.html
